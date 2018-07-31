@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="false" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="pt.ulisboa.tecnico.sise.autoinsure.datamodel.ClaimMessage" 
+    project="AutoInSureWSServer" 
+    file="/AutoInSureWSServer/src/pt/ulisboa/tecnico/sise/autoinsure/datamodel/ClaimMessage.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="372" y="718"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="pt.ulisboa.tecnico.sise.autoinsure.datamodel.Person" project="AutoInSureWSServer" 
+    file="/AutoInSureWSServer/src/pt/ulisboa/tecnico/sise/autoinsure/datamodel/Person.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="148" width="195" x="276" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="pt.ulisboa.tecnico.sise.autoinsure.datamodel.ClaimRecord" 
+    project="AutoInSureWSServer" 
+    file="/AutoInSureWSServer/src/pt/ulisboa/tecnico/sise/autoinsure/datamodel/ClaimRecord.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="372" y="529"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="pt.ulisboa.tecnico.sise.autoinsure.datamodel.ClaimItem" 
+    project="AutoInSureWSServer" 
+    file="/AutoInSureWSServer/src/pt/ulisboa/tecnico/sise/autoinsure/datamodel/ClaimItem.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="132" y="525"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="pt.ulisboa.tecnico.sise.autoinsure.datamodel.Customer" 
+    project="AutoInSureWSServer" 
+    file="/AutoInSureWSServer/src/pt/ulisboa/tecnico/sise/autoinsure/datamodel/Customer.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="166" width="195" x="276" y="225"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <association id="6">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="7" name="_claimMessageList">        
+        <position height="0" width="0" x="77" y="93"/>      
+      </attribute>      
+      <multiplicity id="8" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="77" y="93"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="9">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <association id="10">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="11" name="_claimList">        
+        <position height="0" width="0" x="102" y="194"/>      
+      </attribute>      
+      <multiplicity id="12" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="102" y="194"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="13">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="false"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

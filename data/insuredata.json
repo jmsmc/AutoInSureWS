@@ -1,0 +1,544 @@
+[
+  {
+    "password": "j",
+    "plateList": [
+      "88-JJ-99",
+      "88-JJ-99",
+      "88-JJ-99"
+    ],
+    "person": {
+      "address": "Rua das Flores 21, Lisboa",
+      "name": "Joao Silva",
+      "dateOfBirth": "23-01-1960",
+      "fiscalNumber": 1234
+    },
+    "policyNumber": 1112222333,
+    "claimList": [
+      {
+        "occurrenceDate": "01-07-2018",
+        "messageList": [
+          {
+            "msg": "If you need any more information, contact me.",
+            "date": "17-01-2018 11:15",
+            "sender": "Joao Silva"
+          },
+          {
+            "msg": "Test Message from mobile app",
+            "date": "19-07-2018 23:23",
+            "sender": "Joao Silva"
+          },
+          {
+            "msg": " ola joao",
+            "date": "28-07-2018 00:38",
+            "sender": "AutoInSure"
+          },
+          {
+            "msg": " ola joao",
+            "date": "28-07-2018 00:38",
+            "sender": "AutoInSure"
+          },
+          {
+            "msg": "ola",
+            "date": "28-07-2018 21:19",
+            "sender": "Joao Silva"
+          },
+          {
+            "msg": " We are currently handling your claim.",
+            "date": "28-07-2018 21:20",
+            "sender": "AutoInSure"
+          },
+          {
+            "msg": "Boa noite",
+            "date": "28-07-2018 23:34",
+            "sender": "Joao Silva"
+          },
+          {
+            "msg": "ola",
+            "date": "28-07-2018 23:34",
+            "sender": "Joao Silva"
+          },
+          {
+            "msg": "ola",
+            "date": "28-07-2018 23:43",
+            "sender": "Joao Silva"
+          },
+          {
+            "msg": "ola",
+            "date": "28-07-2018 23:46",
+            "sender": "Joao Silva"
+          },
+          {
+            "msg": "ola",
+            "date": "29-07-2018 00:57",
+            "sender": "Joao Silva"
+          },
+          {
+            "msg": " We are currently handling your claim.",
+            "date": "29-07-2018 00:58",
+            "sender": "AutoInSure"
+          },
+          {
+            "msg": " We are currently handling your claim.",
+            "date": "29-07-2018 00:59",
+            "sender": "AutoInSure"
+          },
+          {
+            "msg": "ola",
+            "date": "29-07-2018 01:26",
+            "sender": "Joao Silva"
+          },
+          {
+            "msg": " We are currently handling your claim.",
+            "date": "29-07-2018 01:27",
+            "sender": "AutoInSure"
+          },
+          {
+            "msg": " We are currently handling your claim.",
+            "date": "29-07-2018 04:02",
+            "sender": "AutoInSure"
+          },
+          {
+            "msg": " We are currently handling your claim.",
+            "date": "29-07-2018 04:03",
+            "sender": "AutoInSure"
+          },
+          {
+            "msg": " We are currently handling your claim.",
+            "date": "29-07-2018 04:06",
+            "sender": "AutoInSure"
+          },
+          {
+            "msg": " We are currently handling your claim.",
+            "date": "29-07-2018 04:11",
+            "sender": "AutoInSure"
+          },
+          {
+            "msg": " We are currently handling your claim.newMessage j 1 We are currently handling your claim.",
+            "date": "29-07-2018 04:15",
+            "sender": "AutoInSure"
+          },
+          {
+            "msg": " We are currently handling your claim.",
+            "date": "29-07-2018 04:16",
+            "sender": "AutoInSure"
+          },
+          {
+            "msg": " We are currently handling your claim.",
+            "date": "29-07-2018 04:17",
+            "sender": "AutoInSure"
+          },
+          {
+            "msg": " We are currently handling your claim.",
+            "date": "29-07-2018 04:17",
+            "sender": "AutoInSure"
+          },
+          {
+            "msg": " We are currently handling your claim.",
+            "date": "29-07-2018 04:19",
+            "sender": "AutoInSure"
+          },
+          {
+            "msg": " We are currently handling your claim.",
+            "date": "29-07-2018 04:19",
+            "sender": "AutoInSure"
+          },
+          {
+            "msg": " We are currently handling your claim.",
+            "date": "29-07-2018 04:20",
+            "sender": "AutoInSure"
+          },
+          {
+            "msg": " We are currently handling your claim.",
+            "date": "29-07-2018 04:20",
+            "sender": "AutoInSure"
+          },
+          {
+            "msg": " We are currently handling your claim.",
+            "date": "29-07-2018 04:45",
+            "sender": "AutoInSure"
+          },
+          {
+            "msg": " We are currently handling your claim.",
+            "date": "29-07-2018 04:46",
+            "sender": "AutoInSure"
+          },
+          {
+            "msg": "ola",
+            "date": "29-07-2018 04:48",
+            "sender": "Joao Silva"
+          },
+          {
+            "msg": " We are currently handling your claim.",
+            "date": "29-07-2018 04:54",
+            "sender": "AutoInSure"
+          },
+          {
+            "msg": " We are currently handling your claim.newMessage j 1 We are currently handling your claim.",
+            "date": "29-07-2018 05:08",
+            "sender": "AutoInSure"
+          },
+          {
+            "msg": " We are currently handling your claim.",
+            "date": "29-07-2018 05:23",
+            "sender": "AutoInSure"
+          },
+          {
+            "msg": " We are currently handling your claim.",
+            "date": "29-07-2018 05:27",
+            "sender": "AutoInSure"
+          },
+          {
+            "msg": " We are currently handling your claim.",
+            "date": "29-07-2018 05:27",
+            "sender": "AutoInSure"
+          },
+          {
+            "msg": " We are currently handling your claim.newMessage j 1 We are currently handling your claim.help",
+            "date": "29-07-2018 05:28",
+            "sender": "AutoInSure"
+          },
+          {
+            "msg": " We are currently handling your claim.2018-07-29 05:28:34.953] Outgoing response \u003d\u003e [{\"clai",
+            "date": "29-07-2018 05:28",
+            "sender": "AutoInSure"
+          },
+          {
+            "msg": " We are currently handling your claim.",
+            "date": "29-07-2018 22:12",
+            "sender": "AutoInSure"
+          },
+          {
+            "msg": "ola",
+            "date": "29-07-2018 22:18",
+            "sender": "Joao Silva"
+          },
+          {
+            "msg": " We are currently handling your claim.",
+            "date": "29-07-2018 22:19",
+            "sender": "AutoInSure"
+          },
+          {
+            "msg": " We are currently handling your claim.newMessage j 8 How can we help you?",
+            "date": "29-07-2018 22:24",
+            "sender": "AutoInSure"
+          },
+          {
+            "msg": " We are currently handling your claim.",
+            "date": "30-07-2018 09:31",
+            "sender": "AutoInSure"
+          },
+          {
+            "msg": " We are currently handling your claim.",
+            "date": "30-07-2018 09:40",
+            "sender": "AutoInSure"
+          },
+          {
+            "msg": " lkjafldsa",
+            "date": "31-07-2018 16:46",
+            "sender": "AutoInSure"
+          }
+        ],
+        "description": "Description of claim 1.",
+        "submissionDate": "02-07-2018",
+        "plate": "88-JJ-99",
+        "claimId": 1,
+        "claimTitle": "Claim 1 Title",
+        "status": "pending"
+      },
+      {
+        "occurrenceDate": "29-06-2018",
+        "messageList": [
+          {
+            "msg": " We are currently handling your claim.",
+            "date": "29-07-2018 05:29",
+            "sender": "AutoInSure"
+          },
+          {
+            "msg": " We are currently handling your claim.",
+            "date": "29-07-2018 05:38",
+            "sender": "AutoInSure"
+          },
+          {
+            "msg": " We are currently handling your claim.",
+            "date": "29-07-2018 05:50",
+            "sender": "AutoInSure"
+          },
+          {
+            "msg": " We are currently handling your claim.",
+            "date": "29-07-2018 05:50",
+            "sender": "AutoInSure"
+          },
+          {
+            "msg": " We are currently handling your claim.",
+            "date": "29-07-2018 05:50",
+            "sender": "AutoInSure"
+          }
+        ],
+        "description": "Test Claim Description",
+        "submissionDate": "19-07-2018",
+        "plate": "ZZ-11-22",
+        "claimId": 2,
+        "claimTitle": "Test Claim Title",
+        "status": "pending"
+      },
+      {
+        "occurrenceDate": "29-06-2018",
+        "messageList": [],
+        "description": "Test Claim Description",
+        "submissionDate": "19-07-2018",
+        "plate": "ZZ-11-22",
+        "claimId": 3,
+        "claimTitle": "Test Claim Title",
+        "status": "pending"
+      },
+      {
+        "occurrenceDate": "07/26/18",
+        "messageList": [],
+        "description": "jkaak lmcakc",
+        "submissionDate": "27-07-2018",
+        "plate": "88-JJ-99",
+        "claimId": 4,
+        "claimTitle": "jajsdaj",
+        "status": "pending"
+      },
+      {
+        "occurrenceDate": "07/26/18",
+        "messageList": [],
+        "description": "jkaak lmcakc",
+        "submissionDate": "27-07-2018",
+        "plate": "88-JJ-99",
+        "claimId": 5,
+        "claimTitle": "jajsdaj",
+        "status": "pending"
+      },
+      {
+        "occurrenceDate": "07/25/18",
+        "messageList": [
+          {
+            "msg": "ola",
+            "date": "29-07-2018 01:26",
+            "sender": "Joao Silva"
+          },
+          {
+            "msg": "ola boa noite",
+            "date": "29-07-2018 01:26",
+            "sender": "Joao Silva"
+          },
+          {
+            "msg": " We are currently handling your claim.",
+            "date": "29-07-2018 01:28",
+            "sender": "AutoInSure"
+          },
+          {
+            "msg": " We are currently handling your claim.",
+            "date": "29-07-2018 01:55",
+            "sender": "AutoInSure"
+          },
+          {
+            "msg": " We are currently handling your claim.",
+            "date": "29-07-2018 01:56",
+            "sender": "AutoInSure"
+          },
+          {
+            "msg": " We are currently handling your claim.",
+            "date": "29-07-2018 02:22",
+            "sender": "AutoInSure"
+          },
+          {
+            "msg": " We are currently handling your claim.",
+            "date": "29-07-2018 02:26",
+            "sender": "AutoInSure"
+          },
+          {
+            "msg": " We are currently handling your claim",
+            "date": "29-07-2018 03:39",
+            "sender": "AutoInSure"
+          },
+          {
+            "msg": " We are currently handling your claim",
+            "date": "29-07-2018 03:40",
+            "sender": "AutoInSure"
+          },
+          {
+            "msg": " We are currently handling your claim",
+            "date": "29-07-2018 03:40",
+            "sender": "AutoInSure"
+          }
+        ],
+        "description": "Acidernte",
+        "submissionDate": "27-07-2018",
+        "plate": "88-JJ-99",
+        "claimId": 6,
+        "claimTitle": "Car crash",
+        "status": "pending"
+      },
+      {
+        "occurrenceDate": "07/24/18",
+        "messageList": [],
+        "description": "Fisnm SAR \n\nemail. sdmf .sdf",
+        "submissionDate": "29-07-2018",
+        "plate": "88-JJ-99",
+        "claimId": 7,
+        "claimTitle": "Truck crash",
+        "status": "pending"
+      },
+      {
+        "occurrenceDate": "",
+        "messageList": [
+          {
+            "msg": "Good afternoon. I need some help with something.",
+            "date": "29-07-2018 22:23",
+            "sender": "Joao Silva"
+          },
+          {
+            "msg": " How can we help you?",
+            "date": "29-07-2018 22:24",
+            "sender": "AutoInSure"
+          },
+          {
+            "msg": " How can we help you?",
+            "date": "29-07-2018 22:26",
+            "sender": "AutoInSure"
+          },
+          {
+            "msg": " How can we help you?",
+            "date": "29-07-2018 22:27",
+            "sender": "AutoInSure"
+          },
+          {
+            "msg": " How can we help you?",
+            "date": "29-07-2018 22:27",
+            "sender": "AutoInSure"
+          }
+        ],
+        "description": "",
+        "submissionDate": "29-07-2018",
+        "plate": "88-JJ-99",
+        "claimId": 8,
+        "claimTitle": "",
+        "status": "pending"
+      },
+      {
+        "occurrenceDate": "",
+        "messageList": [],
+        "description": "",
+        "submissionDate": "31-07-2018",
+        "plate": "88-JJ-99",
+        "claimId": 9,
+        "claimTitle": "",
+        "status": "pending"
+      },
+      {
+        "occurrenceDate": "07/18/18",
+        "messageList": [
+          {
+            "msg": ",jmhnv",
+            "date": "31-07-2018 16:54",
+            "sender": "Joao Silva"
+          },
+          {
+            "msg": " lllllss",
+            "date": "31-07-2018 16:55",
+            "sender": "AutoInSure"
+          }
+        ],
+        "description": "",
+        "submissionDate": "31-07-2018",
+        "plate": "88-JJ-99",
+        "claimId": 10,
+        "claimTitle": "",
+        "status": "pending"
+      }
+    ],
+    "username": "j"
+  },
+  {
+    "password": "m",
+    "plateList": [
+      "88-MM-99",
+      "88-MM-88"
+    ],
+    "person": {
+      "address": "Av. da Liberdade 1, Lisboa",
+      "name": "Maria Albertina",
+      "dateOfBirth": "16-02-1986",
+      "fiscalNumber": 211
+    },
+    "policyNumber": 202020202,
+    "claimList": [
+      {
+        "occurrenceDate": "20-06-2018",
+        "messageList": [
+          {
+            "msg": "Any news regarding this claim?",
+            "date": "20-06-2018 17:15",
+            "sender": "Maria Albertina"
+          },
+          {
+            "msg": "Yes, the claim was accepted!",
+            "date": "21-06-2018",
+            "sender": "AutoInSure"
+          },
+          {
+            "msg": "Good evening",
+            "date": "31-07-2018 14:48",
+            "sender": "Maria Albertina"
+          }
+        ],
+        "description": "Description of claim 1.",
+        "submissionDate": "20-06-2018",
+        "plate": "88-MM-88",
+        "claimId": 1,
+        "claimTitle": "Claim 1 Title",
+        "status": "accepted"
+      },
+      {
+        "occurrenceDate": "25-06-2018",
+        "messageList": [
+          {
+            "msg": "Your claim was denied due to ...",
+            "date": "25-06-2018 14:15",
+            "sender": "AutoInSure"
+          },
+          {
+            "msg": " We are currently handling your claim.",
+            "date": "31-07-2018 14:51",
+            "sender": "AutoInSure"
+          },
+          {
+            "msg": " We are currently handling your claim.",
+            "date": "31-07-2018 14:52",
+            "sender": "AutoInSure"
+          },
+          {
+            "msg": " We are currently handling your claim.",
+            "date": "31-07-2018 14:53",
+            "sender": "AutoInSure"
+          },
+          {
+            "msg": " We are currently handling your claim.",
+            "date": "31-07-2018 14:53",
+            "sender": "AutoInSure"
+          }
+        ],
+        "description": "Description of claim 2.",
+        "submissionDate": "26-06-2018",
+        "plate": "88-MM-99",
+        "claimId": 2,
+        "claimTitle": "Claim 2 Title",
+        "status": "denied"
+      },
+      {
+        "occurrenceDate": "07/30/18",
+        "messageList": [],
+        "description": "acidenteas blah blah\n\n",
+        "submissionDate": "31-07-2018",
+        "plate": "88-MM-99",
+        "claimId": 3,
+        "claimTitle": "Car crash",
+        "status": "pending"
+      }
+    ],
+    "username": "m"
+  }
+]
